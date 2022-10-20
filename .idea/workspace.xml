@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e0b129a-90a1-43de-b114-822b25e874fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/DefaultAccessmodifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/DefaultAccessmodifier1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/PrivateAccessmodifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/ProtectedAccessmodifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/oops/MethodOverloadingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/oops/SubtractionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrayasc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/views/Compositenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/views/Largestarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/views/Primenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/views/Smallestarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/views/Stringreversed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/views/Sumofarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/base/browserInvoke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/base/methodfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/scripts/Invokeurl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/samplestring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngscripts/tablescripts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +46,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Practice/SeleniumWorkshop03OCT2022",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Practice/SeleniumWorkshop03OCT2022&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.sample.accessmodifiers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodOverloadingDemo">
-    <configuration name="DefaultAccessmodifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.accessmodifiers.DefaultAccessmodifier" />
+  <component name="RunManager" selected="Application.Stringreversed">
+    <configuration name="Compositenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.views.Compositenumber" />
       <module name="SeleniumWorkshop03OCT2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sample.accessmodifiers.*" />
+          <option name="PATTERN" value="com.sample.views.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultAccessmodifier1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.accessmodifiers.DefaultAccessmodifier1" />
+    <configuration name="Largestarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.views.Largestarray" />
       <module name="SeleniumWorkshop03OCT2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sample.accessmodifiers.*" />
+          <option name="PATTERN" value="com.sample.views.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloadingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.oops.MethodOverloadingDemo" />
+    <configuration name="Primenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.views.Primenumber" />
       <module name="SeleniumWorkshop03OCT2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sample.oops.*" />
+          <option name="PATTERN" value="com.sample.views.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProtectedAccessmodifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.accessmodifiers.ProtectedAccessmodifier" />
+    <configuration name="Stringreversed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.views.Stringreversed" />
       <module name="SeleniumWorkshop03OCT2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sample.accessmodifiers.*" />
+          <option name="PATTERN" value="com.sample.views.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtractionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.oops.SubtractionDemo" />
+    <configuration name="Sumofarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.views.Sumofarray" />
       <module name="SeleniumWorkshop03OCT2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sample.oops.*" />
+          <option name="PATTERN" value="com.sample.views.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +126,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestNG" type="TestNG">
+      <module name="SeleniumWorkshop03OCT2022" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testngscripts" />
+      <option name="MAIN_CLASS_NAME" value="testngscripts.tablescripts" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Compositenumber" />
+      <item itemvalue="Application.Largestarray" />
+      <item itemvalue="Application.Primenumber" />
+      <item itemvalue="Application.Stringreversed" />
+      <item itemvalue="Application.Sumofarray" />
+      <item itemvalue="TestNG.TestNG" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodOverloadingDemo" />
-        <item itemvalue="Application.ProtectedAccessmodifier" />
-        <item itemvalue="Application.SubtractionDemo" />
-        <item itemvalue="Application.DefaultAccessmodifier1" />
-        <item itemvalue="Application.DefaultAccessmodifier" />
+        <item itemvalue="Application.Stringreversed" />
+        <item itemvalue="Application.Compositenumber" />
+        <item itemvalue="Application.Primenumber" />
+        <item itemvalue="Application.Sumofarray" />
+        <item itemvalue="Application.Largestarray" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +198,39 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/selenium/scripts/Invokeurl.java</url>
+          <line>17</line>
+          <properties class="com.selenium.scripts.Invokeurl" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/views/Smallestarray.java</url>
+          <line>6</line>
+          <properties class="com.sample.views.Smallestarray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/views/Primenumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/views/Primenumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/views/Primenumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

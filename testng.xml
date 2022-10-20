@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Practice/SeleniumWorkshop03OCT2022">
+        <classes>
+            <class name="testngscripts.tablescripts">
+                <methods>
+                    <include name="navigateUrl"/>
+                    <include name="tableValue"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
