@@ -1,4 +1,4 @@
-package org.example;
+package com.sample;
 
 public class arrayasc {
 
