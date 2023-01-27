@@ -4,16 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0b129a-90a1-43de-b114-822b25e874fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/DefaultAccessmodifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/DefaultAccessmodifier1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/PrivateAccessmodifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/ProtectedAccessmodifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/oops/MethodOverloadingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/oops/SubtractionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrayasc.java" afterDir="false" />
+    <list default="true" id="ab97e85a-969a-49d0-96e4-dd805f523683" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/StringManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Baseclass/DriverInitiate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Baseclass/DriverInitiate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Baseclass/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Baseclass/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learningoops/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learningoops/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learningoops/TestProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learningoops/TestProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/Iview/AssertionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/Iview/AssertionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/Iview/ExampleMethodOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/Iview/ExampleMethodOverload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/Iview/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/Iview/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/Iview/MethodOverloadingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/Iview/MethodOverloadingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/Iview/PrintFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/Iview/PrintFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/Iview/TestNGAssertionFailureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/Iview/TestNGAssertionFailureDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/TDDexample/UserNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/TDDexample/UserNameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/TDDexample/Username.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/TDDexample/Username.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/DefaultAccessmodifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/DefaultAccessmodifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/PrivateAccessmodifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/PrivateAccessmodifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/ProtectedAccessmodifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessmodifiers/ProtectedAccessmodifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/basics/Abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/basics/Abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/basics/Helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/basics/Helloworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/basics/IncrementDecrementQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/basics/IncrementDecrementQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/basics/Printstar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/basics/Printstar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/basics/methodoverloading_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/basics/methodoverloading_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/basics/xlswrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/basics/xlswrite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/oops/SubtractionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/oops/SubtractionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/oops/arrayasc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/oops/arrayasc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/oops/exampleencap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/oops/exampleencap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/string/Mainstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/string/Mainstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/string/Stringexample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/string/Stringexample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/string/Stringexample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/string/Stringexample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/Displayoverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/Displayoverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/EmployeeCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/EmployeeCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/EncapsulationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/EncapsulationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/ExampleOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/ExampleOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/Lions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/Lions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/MathTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/studydemo/Website.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studydemo/Website.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Testcase/AlertTestcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testcase/AlertTestcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Testcase/popupLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testcase/popupLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Testcase/sampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testcase/sampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Testcase/withoutSampletest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testcase/withoutSampletest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/MyHoliday.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/MyHoliday.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +80,14 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FdJj3ps5h5lhKMtnJGYpD3roAR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KWUw7jXpjvwoLPW1VsvisBdvTp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,75 +96,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Practice/SeleniumWorkshop03OCT2022",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "D:/Practice/SeleniumWorkshop03OCT2022"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.sample.accessmodifiers" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.MethodOverloadingDemo">
-    <configuration name="DefaultAccessmodifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.accessmodifiers.DefaultAccessmodifier" />
+  <component name="RunManager">
+    <configuration name="StringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.studydemo.StringManipulation" />
       <module name="SeleniumWorkshop03OCT2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sample.accessmodifiers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DefaultAccessmodifier1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.accessmodifiers.DefaultAccessmodifier1" />
-      <module name="SeleniumWorkshop03OCT2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.accessmodifiers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverloadingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.oops.MethodOverloadingDemo" />
-      <module name="SeleniumWorkshop03OCT2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.oops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProtectedAccessmodifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.accessmodifiers.ProtectedAccessmodifier" />
-      <module name="SeleniumWorkshop03OCT2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.accessmodifiers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubtractionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.oops.SubtractionDemo" />
-      <module name="SeleniumWorkshop03OCT2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.oops.*" />
+          <option name="PATTERN" value="com.studydemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,22 +115,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodOverloadingDemo" />
-        <item itemvalue="Application.ProtectedAccessmodifier" />
-        <item itemvalue="Application.SubtractionDemo" />
-        <item itemvalue="Application.DefaultAccessmodifier1" />
-        <item itemvalue="Application.DefaultAccessmodifier" />
+        <item itemvalue="Application.StringManipulation" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7e0b129a-90a1-43de-b114-822b25e874fe" name="Changes" comment="" />
-      <created>1664816161738</created>
+      <changelist id="ab97e85a-969a-49d0-96e4-dd805f523683" name="Changes" comment="" />
+      <created>1674090121591</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664816161738</updated>
+      <updated>1674090121591</updated>
     </task>
     <servers />
   </component>
@@ -150,20 +140,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrayasc.java</url>
-          <line>4</line>
-          <properties class="org.example.arrayasc" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

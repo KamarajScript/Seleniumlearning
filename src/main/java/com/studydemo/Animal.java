@@ -1,6 +1,8 @@
 package com.studydemo;
 
-abstract class animalSound {
+abstract class Animal {
 
-    public void an
+    public void animalSound() {
+
+    }
 }

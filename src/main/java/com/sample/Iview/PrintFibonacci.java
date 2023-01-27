@@ -1,4 +1,4 @@
-package com.sample.Interview;
+package com.sample.Iview;
 
 public class PrintFibonacci {
 

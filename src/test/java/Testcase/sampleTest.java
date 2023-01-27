@@ -1,4 +1,4 @@
-package Testclass;
+package Testcase;
 
 import com.Baseclass.DriverInitiate;
 import org.testng.annotations.AfterTest;
@@ -14,11 +14,11 @@ public class sampleTest extends DriverInitiate {
 
     @Test
     public void urlCall() {
-        Intiiateurl("https://www.google.com",driver);
+        navigateUrl("https://www.google.com", driver);
     }
 
     @AfterTest
-    public void browserClose(){
+    public void browserClose() {
         close(driver);
     }
 }

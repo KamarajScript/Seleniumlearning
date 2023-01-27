@@ -14,8 +14,6 @@ public class PrivateAccessmodifier {
 
     // Private Access Modifier
     private PrivateAccessmodifier() {
-        int a = 10;
-        int b = 5;
     }
 
     // Private Access Modifier
